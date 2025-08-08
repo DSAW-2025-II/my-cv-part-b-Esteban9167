@@ -85,3 +85,14 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+# Este es mi trabajo
+
+Sé que hay muchas cosas que mejorar, especialmente en diseño, color y creatividad.  
+El manejo de **flex** y **grid** me costó; intenté usar una plantilla y replicarla.
+
+[Ver el proyecto aquí](https://dsaw-2025-ii.github.io/my-cv-part-b-Esteban9167/)
+
+Este es el juego de sushi 
+![Sushi](media/sushi.jpg)
