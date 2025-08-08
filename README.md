@@ -95,4 +95,4 @@ El manejo de **flex** y **grid** me costó; intenté usar una plantilla y replic
 [Ver el proyecto aquí](https://dsaw-2025-ii.github.io/my-cv-part-b-Esteban9167/)
 
 Este es el juego de sushi 
-![Sushi](media/sushi.jpg)
+![Sushi](media/sushi.png)
